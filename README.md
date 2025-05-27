@@ -14,8 +14,8 @@ A comprehensive React TypeScript starter application built with Vite, featuring 
 1. **Use this template** (if this is a template repository) or clone:
 
     ```bash
-    git clone xxx
-    cd starter-app
+    git clone https://github.com/rishadomar/lii-starter-app.git
+    cd lii-starter-app.git
     ```
 
 2. **Install dependencies:**
